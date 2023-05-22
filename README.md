@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="https://i.imgur.com/AwlL9kc.jpeg" alt="kratro-ofc" width="500"/>
+<img src=".jpeg" alt="kratro-ofc" width="500"/>
 </p>
 <p align="center">
 <a href="https://github.com/clubatro/Kratos-bot"><img title="kratro-ofc" src="https://img.shields.io/badge/🌸 ESTÁ ES UNA VERSIÓN SIMPLIFICADA DE KratosBot 🇦🇱 -red?colorA=%233CCED8&colorB=%233CCED8&style=for-the-badge"></a>
@@ -9,8 +9,8 @@
 <a href="mailto:clubatroofc@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
-<a href="https://facebook.com/groups/872989990425789/">
-<img src=""" alt="Facebook">
+<a href="https://facebook.com/groups//">
+<img src=""" alt="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 <a href="https://www.youtube.com/@">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
@@ -129,10 +129,10 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 ```cmd
 > ffmpeg -version
 ```
-### 💠 [`IDIOMAS DISPONIBLES PARA GATABOTLITE`](https://github.com/GataNina-Li/GataBotLite-MD/blob/f406e0f1bba1ca7cd6ee4ef3208e156135a24dce/config.js#L31) 
-#### ✨ Español  [`Editar Idioma`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/espanol.js)
-#### ✨ Inglés (English) [`Edit Language`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/ingles.js)
-#### ✨ Árabe (عرب) [`عدل اللغة`](https://github.com/GataNina-Li/GataBotLite-MD/blob/master/lib/idiomas/arabe.js)
+### 💠 [`IDIOMAS DISPONIBLES PARA KRATOS`](https://github.com/clubatro/Kratos-bot.md/blob/f406e0f1bba1ca7cd6ee4ef3208e156135a24dce/config.js#L31) 
+#### ✨ Español  [`Editar Idioma`](https://github.com/clubatro/Kratos-bot.md/blob/master/lib/idiomas/espanol.js)
+#### ✨ Inglés (English) [`Edit Language`](https://github.com/clubatro/Kratos-bot.md/blob/master/lib/idiomas/ingles.js)
+#### ✨ Árabe (عرب) [`عدل اللغة`](https://github.com/clubatro/Kratos-bot.md/blob/master/lib/idiomas/arabe.js)
 ----
 
 ### 🌟 CREADOR 
